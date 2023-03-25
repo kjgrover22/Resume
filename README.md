@@ -17,9 +17,9 @@ Relevant Coursework - GIS I, II & III, Remote Sensing I & II, Geomorphology
 <h2>Professional Experience </h2>
 Engineering GIS/Surveying Intern  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; La Crosse, WI <br>
 City of La Crosse  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; September 2022-present <br>
-Gather field data, update and create records and mapping in Geographic Information System <br>
-Manage ArcGIS database for sidewalks and other infrastructure <br> 
-Provide user and technical support under the direction of Civil Engineers and Sidewalk ADA Technician <br> 
+-  Gather field data, update and create records and mapping in Geographic Information System <br>
+-  Manage ArcGIS database for sidewalks and other infrastructure <br> 
+-  Provide user and technical support under the direction of Civil Engineers and Sidewalk ADA Technician <br> 
 
 <br>
 <br> 
@@ -44,7 +44,7 @@ Collected and prepared field data for planning analyses and projects <br>
 <br> 
 
 <h2>Professional Skills</h2>
-ArcGIS Pro & ArcMap <br>
+ArgGIS Pro and ArcMap
 Remote sensing/aerial photography interpretation <br>
 Data & spatial analytics <br>
 Knowledge of land use regulation and classification systems <br>
